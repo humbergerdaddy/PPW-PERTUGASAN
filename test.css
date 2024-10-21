@@ -1,0 +1,20 @@
+p {
+    font-size: 20px;
+}
+
+label {
+    font-size: 20px;
+    color: #f00;
+}
+
+input {
+    padding: 15px;
+}
+
+button {
+    color: #907;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
