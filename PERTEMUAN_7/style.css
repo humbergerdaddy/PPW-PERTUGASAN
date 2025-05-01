@@ -1,0 +1,138 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #af8807a8;
+}
+
+nav {
+    background-color: #330305;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: 'Segoe UI';
+    color: white;
+}
+
+nav a:hover {
+    color: #a18445;
+}
+
+.artikel1 {
+    font-family: 'Segoe UI';
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+p {
+    margin-top: 0px;
+}
+
+.konten a {
+    color: #330305;
+    text-decoration: none;
+}
+
+
+.konten {
+    max-width: 600px;    /* atur sesuai lebar gambar */
+    margin: 0 auto;      /* center secara keseluruhan */
+    text-align: center; 
+}
+
+.konten img {
+   width: 100%;
+   display: block;
+   
+}
+
+.konten:hover {
+    background-color: aqua;
+    box-shadow: #330305;
+}
+
+.hofctext h2{
+    text-align: center;
+  font-size: 28px;
+  margin-bottom: 5rem;
+}
+
+.hofctext p {
+    font-family: Georgia;
+    max-width: 600px;
+    margin: 0 auto;
+    font-weight: bold;
+
+}
+
+iframe {
+    display: block;         
+    margin: 0 auto;   
+    margin-bottom: 5rem;
+    margin-top: 1rem;
+}
+
+figure img{
+    width: 70%;
+   display: block;
+}
+
+.gambar {
+    max-width: 600px;    /* atur sesuai lebar gambar */
+    margin: 0 auto;      /* center secara keseluruhan */
+    text-align: center; 
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.gambar figcaption {
+    justify-content: center;
+    margin-bottom: 3rem;
+    color: #330305;
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+.gallery h2 {
+    margin-bottom: 2rem;
+}
+
+.gambarnews1 img{
+    margin: 0 auto;
+    width: 50%;
+   display: block;
+   margin-top: 1rem;
+   margin-bottom: 2rem;
+}
+
+.news1text h2{
+    font-family: Georgia;
+    max-width: 600px;
+    margin: 0 auto;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.news1text h1{
+    font-family: Georgia;
+    max-width: 600px;
+    margin: 0 auto;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.news1text p{
+    font-family: Georgia;
+    max-width: 600px;
+    margin: 0 auto;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+
+
